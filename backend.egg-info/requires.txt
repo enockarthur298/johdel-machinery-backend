@@ -1,0 +1,8 @@
+flask
+flask-cors
+python-dotenv
+supabase
+flask-jwt-extended
+python-jose
+pyjwt
+python-multipart

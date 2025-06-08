@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: backend
+Version: 0.1
+Requires-Dist: flask
+Requires-Dist: flask-cors
+Requires-Dist: python-dotenv
+Requires-Dist: supabase
+Requires-Dist: flask-jwt-extended
+Requires-Dist: python-jose
+Requires-Dist: pyjwt
+Requires-Dist: python-multipart
+Dynamic: requires-dist
